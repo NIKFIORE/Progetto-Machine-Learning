@@ -1,2 +1,2 @@
 # Progetto-Machine-Learning
-Progetto Machine Learning
+In questo progetto si propone l'analisi di un dataset, applicazione di tecniche di formattazione e di trasformazione dei dati. Successivamente abbiamo una implementazione alcuni modelli e per concludere abbiamo un confronto delle performance tra i differenti modelli applicati. Dopo una fase iniziale di esplorazione, i dati vengono puliti e normalizzati per garantire qualità e coerenza. Successivamente, vengono applicati di machine learning per individuare pattern, effettuare previsioni. L’obiettivo finale è fornire un confronto tra i modelli applicati, misurandone le perfomance e l'efficenza.
